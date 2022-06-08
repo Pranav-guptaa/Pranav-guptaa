@@ -36,4 +36,4 @@ I've being into this industry for more than 2-years and building up new skills i
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Pranav-guptaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/pranavpannw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
