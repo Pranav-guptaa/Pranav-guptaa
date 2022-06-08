@@ -33,6 +33,7 @@ I've being into this industry for more than 2-years and building up new skills i
 
 <div width="100%" align="center"><a href="https://github.com/Pranav-guptaa/Vaccine-Registeration-QT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-guptaa&repo=Vaccine-Registeration-QT&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Pranav-guptaa/Automatic-Voice-Recorder-Aurdino" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-guptaa&repo=Automatic-Voice-Recorder-Aurdino&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Pranav-guptaa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
