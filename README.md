@@ -7,7 +7,7 @@ Ethical Hacker
 I've being into this industry for more than 2-years and building up new skills in Web Application Penetration Testing. I've done various major and minor projects in C++ and Python and Is currently seeking for an Intern in a company for enhancing not only my skills but also to get into touch with more like-minded people in this industry.
 
 * 🌍  I'm based in Haryana, India
-* ✉️  You can contact me at [pranavpannu77@gmail.com](mailto:pranavpannu77@gmail.com)
+* ✉️  You can contact me at [pranavpannu77@gmail.com](mailto:pentest.pranav@gmail.com)
 * 🧠  I'm learning about Cyber Security and more specifically about Web Application Testing.
 * ⚡  I also have keen interest in Competitive Programming with Java.
 
