@@ -1,7 +1,7 @@
 Hi 👋 My name is Pranav Gupta
 =============================
 
-Ethical Hacker
+Certified Ethical Hacker
 --------------
 
 I've being into this industry for more than 2-years and building up new skills in Web Application Penetration Testing. I've done various major and minor projects in C++ and Python and Is currently seeking for an Intern in a company for enhancing not only my skills but also to get into touch with more like-minded people in this industry.
